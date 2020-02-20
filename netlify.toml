@@ -48,9 +48,3 @@ ID = "lei2rock-blog"
   to = "/about/photos"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/posts/82ef8c2e"
-  to = "/about/site"
-  status = 301
-  force = true

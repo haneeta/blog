@@ -219,7 +219,7 @@ font:
   headings:
     external: true
     family: Noto Serif SC
-    size: 1.6
+    size: 1.45
 
   # Font settings for posts (.post-body).
   posts:

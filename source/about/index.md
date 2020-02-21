@@ -17,7 +17,7 @@ comments: true
 ### 在这里发现更多
 
 　<i class="fa fa-fw fa-envelope"></i>&nbsp;&nbsp;idonglei (at) foxmail.com
-　<i class="fa fa-fw fa-weibo"></i>&nbsp;&nbsp;[微博](https://weibo.com/7216640993 "@lei2rock")
+　<i class="fa fa-fw fa-weibo"></i>&nbsp;&nbsp;[微博](https://weibo.com/1156774800 "@木东三石")
 　<i class="fa fa-fw fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/lei2rock "@lei2rock")
 　<i class="fa fa-fw fa-github"></i>&nbsp;&nbsp;[GitHub](https://github.com/lei2rock "@lei2rock")
 {% img /cloud/img/wx_channel.jpg 150 微信扫码：班班碎碎念 %}

@@ -1,4 +1,4 @@
-photo ={
+photo = {
     page: 1,
     offset: 100,
     init: function () {

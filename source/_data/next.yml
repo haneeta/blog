@@ -69,7 +69,7 @@ baidu_push: true
 
 menu:
   home: / || home
-  categories: 
+  分类标签: 
     default: summary/ || bookmark
     categories: categories || th
     tags: tags || tags

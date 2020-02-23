@@ -112,6 +112,7 @@ collections: # A list of collections the CMS should be able to edit
         file: "/source/about/friends/index.md"
         fields:
           - {label: "标题", name: "title", widget: "string"}
+          - {label: "类型", name: "type", widget: "string", default: "friends"}
           - {label: "评论", name: "comments", widget: "boolean", default: true}
           - {label: "正文", name: "body", widget: "markdown"}
       - name: "site"

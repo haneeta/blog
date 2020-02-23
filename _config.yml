@@ -24,15 +24,16 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: summary/tags
 archive_dir: archives
-category_dir: categories
+category_dir: summary/categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - README.md
   - admin/**
   - 404.html
+  - js/photo.js
 
 # Writing
 new_post_name: :year:month:day-:title.md # File name of new posts

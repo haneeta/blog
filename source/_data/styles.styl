@@ -108,7 +108,10 @@ body {
   display: none !important;
 }
 
-//文章标题下信息
+//文章标题与标题下信息
+.posts-expand .post-title {
+  font-weight: 900;
+}
 .posts-expand .post-meta {
   margin: 3px 0 40px 0;
 }
@@ -117,9 +120,14 @@ body {
   cursor: initial;
 }
 
-//文章标题
-.posts-expand .post-title {
-  font-weight: 900;
+//首页文章标题
+.posts-expand article.post-block.home .post-title {
+  text-align: left;
+  border-left: #34495e 8px solid;
+  padding-left: 10px;
+}
+.posts-expand article.post-block.home .post-meta {
+  text-align: left;
 }
 
 //归档、标签、分类页文章标题

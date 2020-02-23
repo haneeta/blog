@@ -69,15 +69,17 @@ baidu_push: true
 
 menu:
   home: / || home
-  archives: archives/ || archive
-  categories: categories/ || th
-  tags: tags/ || tags
+  categories: 
+    default: summary/ || bookmark
+    categories: categories || th
+    tags: tags || tags
+  archives: archives || archive
   about:
     default: about/ || location-arrow
-    光影留痕: photos/ || camera-retro
-    好物分享: share/ || share-alt
-    小伙伴们: friends/ || heart
-    本站概览: site/ || globe
+    光影留痕: photos || camera-retro
+    好物分享: share || share-alt
+    小伙伴们: friends || heart
+    本站概览: site || globe
 
 menu_settings:
   icons: true

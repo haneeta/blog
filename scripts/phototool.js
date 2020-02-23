@@ -2,7 +2,7 @@
     const fs = require("fs");
     const sizeOf = require('image-size');
     const path = "/Users/lei2rock/OneDrive - HKUST Connect/03_Library/04_Blog/photos";
-    const output = "source/about/photos/photoslist.json";
+    const output = "source/photos/photoslist.json";
     var dimensions;
     fs.readdir(path, function (err, files) {
         if (err) {

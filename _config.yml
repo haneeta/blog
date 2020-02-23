@@ -90,10 +90,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-theme_plus:
-  views:
-    - path: 'page.swig' # path in layout folder
-      file: 'custom/page.swig'
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

@@ -7,10 +7,15 @@ zh-CN:
 
   menu:
     home: 博客首页
-    archives: 文章归档
+    archives: 归档
+    summary: 分类标签
     categories: 分类专栏
     tags: 各种标签
+    photos: 光影留痕
     about: 关于更多
+    share: 好物分享
+    friends: 小伙伴们
+    site: 本站概览
     search: 站点搜索
     schedule: 日程表
     sitemap: 站点地图
@@ -31,13 +36,8 @@ zh-CN:
     read_more: 阅读全文
     untitled: 未命名
     sticky: 置顶
-    toc_empty: 此文章未包含目录
     views: 阅读
-    comments_count: 评论数
     related_posts: 相关文章
-    copy_button: 复制
-    copy_success: 复制成功
-    copy_failure: 复制失败
     copyright:
       author: 本文作者
       link: 本文链接
@@ -86,7 +86,6 @@ zh-CN:
     good: 很好
     great: 非常好
     excellent: 太棒了
-
   keep_on: 继续努力。
 
   symbol:
@@ -98,7 +97,11 @@ zh-CN:
     donate: <i class="fa fa-qrcode fa-2x" style="line-height:35px;"></i>
     wechatpay: 微信支付
     alipay: 支付宝
+    paypal: PayPal
     bitcoin: 比特币
+
+  follow_me:
+    welcome: 欢迎关注我的其它发布渠道
 
   accessibility:
     nav_toggle: 切换导航栏

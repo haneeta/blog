@@ -8,7 +8,6 @@ tags:
 date: '2017-02-21 18:30:00'
 sticky: 0
 mathjax: false
-reward: true
 comments: true
 abbrlink: ceda0f99
 ---

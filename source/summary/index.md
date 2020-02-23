@@ -1,5 +1,5 @@
 ---
 title: 分类专栏
+type: categories
 comments: false
 ---
-<head> <meta http-equiv="refresh" content="0;url=/summary/categories"> </head>

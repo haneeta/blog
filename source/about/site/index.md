@@ -2,7 +2,7 @@
 title: 本站概览
 comments: true
 ---
-> 如果要反馈本站存在的问题，敬请在评论区留言，或发送邮件联系我，亦可在 GitHub 上提交 [Issue](https://github.com/lei2rock/blog/issues)。
+> 如果要反馈本站存在的问题，敬请在评论区留言，或发邮件联系我，亦可[在 GitHub 反馈](https://github.com/lei2rock/blog/issues)。
 
 ## 站点概况
 

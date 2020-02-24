@@ -97,6 +97,3 @@ deploy:
   - type: git
     repo: https://GH_TOKEN@github.com/lei2rock/blog.git
     branch: master
-#  - type: git
-#    repo: https://dldylan:CODING_TOKEN@git.dev.tencent.com/dldylan/blog.git
-#    branch: master

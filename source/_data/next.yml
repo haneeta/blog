@@ -125,15 +125,15 @@ darkmode: false
 menu:
   home: / || home
   summary: 
-    default: summary/ || bookmark
-    categories: categories || th
-    tags: tags || tags
-  photos: photos || camera-retro
+    default: /summary/ || bookmark
+    categories: /categories || th
+    tags: /tags || tags
+  photos: /photos/ || camera-retro
   about:
-    default: about/ || location-arrow
-    share: share || share-alt
-    friends: friends || heart
-    site: site || globe
+    default: /about/ || location-arrow
+    share: /share || share-alt
+    friends: /friends || heart
+    site: /site || globe
 
 # Enable / Disable menu icons / item badges.
 menu_settings:

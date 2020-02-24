@@ -187,7 +187,7 @@ site_state: false
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  微博: https://weibo.com/7216640993 || weibo
+  微博: https://weibo.com/1156774800 || weibo
   Twitter: https://twitter.com/lei2rock || twitter
   GitHub: https://github.com/lei2rock || github
   #E-Mail: mailto:yourname@gmail.com || envelope

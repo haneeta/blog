@@ -30,15 +30,3 @@ ID = "lei2rock-blog"
   to = "https://cloud-1256060851.cos.ap-shanghai.myqcloud.com/:splat"
   status = 200
   force = true
-
-[[redirects]]
-  from = "/comments"
-  to = "https://lei2rock.avosapps.us/"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "/comment"
-  to = "https://lei2rock.avosapps.us/"
-  status = 301
-  force = true

@@ -156,13 +156,23 @@ ul.breadcrumb {
 
 //段落中代码样式
 code {
-  background: none;
-  color: #dd4b39;
+  font-size: 85%;
 }
 
 //引用文字字体
 blockquote p, .post-body .note {
   font-family: $font-family-kaiti;
+}
+
+//相关文章移动端缩进
+@media (max-width: 767px) {
+  .popular-posts {
+    padding: 0 18px;
+  }
+  .popular-posts-header {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
 }
 
 //文章图片边框取消
@@ -333,9 +343,12 @@ blockquote p, .post-body .note {
   border-radius: 8px;
 }
 
-//代码框背景颜色
+//代码框
 .highlight-container {
   background: #008b8b;
+}
+.highlight figcaption {
+  font-family: $font-family-monospace;
 }
 
 //页脚

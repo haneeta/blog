@@ -1,10 +1,10 @@
 ---
-title: 本站概览
+title: 站点概况
 comments: true
 ---
 > 如果要反馈本站存在的问题，敬请在评论区留言，或发邮件联系我，亦可[在 GitHub 反馈](https://github.com/lei2rock/blog/issues)。
 
-## 站点概况
+## 技术框架
 
 本站采用了 Hexo 静态博客框架，主题为 NexT Gemini，托管在 Netlify。除此之外，评论、统计等功能使用了以下服务：
 

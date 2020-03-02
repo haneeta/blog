@@ -3,27 +3,16 @@ backend:
   repo: lei2rock/blog
   branch: src # Branch to update (master by default)
 
-media_folder: "source/images" # Folder path where uploaded files should be saved, relative to the base of the repo.
-public_folder: "/images" # Folder path where uploaded files will be accessed, relative to the base of the built site.
-
 publish_mode: editorial_workflow
-site_url: https://blog.dlzhang.com
-display_url: https://blog.dlzhang.com
 logo_url: /cloud/img/cms-logo.svg
-show_preview_links: true
-# slug:
-#   encoding: "ascii" # default: unicode
-#   clean_accents: true
-#   sanitize_replacement: "_"  # default: "-"
-
 
 collections: # A list of collections the CMS should be able to edit
   - name: "bookmovie" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "书影拾光机" # Used in the UI, ie.: "New Post"
     folder: "/source/_posts/书影拾光机" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
+    fields:
       - {label: "标题", name: "title", widget: "string"}
       - {label: "专栏", name: "categories", widget: "list", default: ["书影拾光机"]}
       - {label: "标签", name: "tags", widget: "list", default: [""]}
@@ -33,12 +22,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "评论", name: "comments", widget: "boolean", default: true}
       - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
       - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
-  - name: "academic" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "学术不神秘" # Used in the UI, ie.: "New Post"
-    folder: "/source/_posts/学术不神秘" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+  - name: "academic"
+    label: "学术不神秘"
+    folder: "/source/_posts/学术不神秘"
+    create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
+    fields:
       - {label: "标题", name: "title", widget: "string"}
       - {label: "专栏", name: "categories", widget: "list", default: ["学术不神秘"]}
       - {label: "标签", name: "tags", widget: "list", default: [""]}
@@ -48,12 +37,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "评论", name: "comments", widget: "boolean", default: true}
       - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
       - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
-  - name: "notes" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "生活随手记" # Used in the UI, ie.: "New Post"
-    folder: "/source/_posts/生活随手记" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+  - name: "notes"
+    label: "生活随手记"
+    folder: "/source/_posts/生活随手记"
+    create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
+    fields:
       - {label: "标题", name: "title", widget: "string"}
       - {label: "专栏", name: "categories", widget: "list", default: ["生活随手记"]}
       - {label: "标签", name: "tags", widget: "list", default: [""]}
@@ -63,12 +52,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "评论", name: "comments", widget: "boolean", default: true}
       - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
       - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
-  - name: "ramble" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "碎碎念不停" # Used in the UI, ie.: "New Post"
-    folder: "/source/_posts/碎碎念不停" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+  - name: "ramble"
+    label: "碎碎念不停"
+    folder: "/source/_posts/碎碎念不停"
+    create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
+    fields:
       - {label: "标题", name: "title", widget: "string"}
       - {label: "专栏", name: "categories", widget: "list", default: ["碎碎念不停"]}
       - {label: "标签", name: "tags", widget: "list", default: [""]}

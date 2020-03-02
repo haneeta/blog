@@ -7,7 +7,7 @@ media_folder: "source/images" # Folder path where uploaded files should be saved
 public_folder: "/images" # Folder path where uploaded files will be accessed, relative to the base of the built site.
 
 publish_mode: editorial_workflow
-logo_url: /cloud/img/cms-logo.svg
+logo_url: /cloud/images/cms-logo.svg
 
 collections:
   - name: "bookmovie" # Used in routes, ie.: /admin/collections/:slug/edit

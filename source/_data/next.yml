@@ -40,12 +40,12 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: images/favicon-16x16.png
-  medium: images/favicon-32x32.png
-  apple_touch_icon: images/apple-touch-icon.png
-  safari_pinned_tab: images/safari-pinned-tab.svg
-  android_manifest: images/site.webmanifest
-  ms_browserconfig: images/browserconfig.xml
+  small: /images/favicon-16x16.png
+  medium: /images/favicon-32x32.png
+  apple_touch_icon: /images/apple-touch-icon.png
+  safari_pinned_tab: /images/safari-pinned-tab.svg
+  android_manifest: /images/site.webmanifest
+  ms_browserconfig: /images/browserconfig.xml
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
@@ -173,7 +173,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: cloud/img/blog-avatar.jpg
+  url: /images/blog-avatar.jpg
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
@@ -278,8 +278,8 @@ reward_settings:
   comment: <p style="color:#34495e; margin:0 0 5px 0;">🍭支持一根棒棒糖！</p>
 
 reward:
-  wechatpay: cloud/img/wx_reward.jpg
-  alipay: cloud/img/alipay.jpg
+  wechatpay: /cloud/images/wx_reward.jpg
+  alipay: /cloud/images/alipay.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 

@@ -20,4 +20,4 @@ comments: true
 　<i class="fa fa-fw fa-weibo"></i>&nbsp;&nbsp;[微博](https://weibo.com/1156774800 "@木东三石")
 　<i class="fa fa-fw fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/lei2rock "@lei2rock")
 　<i class="fa fa-fw fa-github"></i>&nbsp;&nbsp;[GitHub](https://github.com/lei2rock "@lei2rock")
-{% img /cloud/img/wx_channel.jpg 150 微信公众号：班班碎碎念 %}
+{% img /cloud/images/wx_channel.jpg 150 微信公众号：班班碎碎念 %}

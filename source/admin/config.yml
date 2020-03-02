@@ -81,15 +81,15 @@ global_fields:
   over_format: true
   # default fields
   post:
-      - {label: "标题", name: "title", widget: "string"}
-      - {label: "专栏", name: "categories", widget: "list"}
-      - {label: "标签", name: "tags", widget: "list", default: [""]}
-      - {label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "置顶", name: "sticky", widget: "number", default: 0, valueType: "int", min: 0, step: 1}
-      - {label: "LaTex", name: "mathjax", widget: "boolean", default: false}
-      - {label: "评论", name: "comments", widget: "boolean", default: true}
-      - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
-      - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
+    - {label: "标题", name: "title", widget: "string"}
+    - {label: "专栏", name: "categories", widget: "list"}
+    - {label: "标签", name: "tags", widget: "list", default: [""]}
+    - {label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+    - {label: "置顶", name: "sticky", widget: "number", default: 0, valueType: "int", min: 0, step: 1}
+    - {label: "LaTex", name: "mathjax", widget: "boolean", default: false}
+    - {label: "评论", name: "comments", widget: "boolean", default: true}
+    - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
+    - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
 
   # default post fields, if set, posts fields will be taken from here
   #post:

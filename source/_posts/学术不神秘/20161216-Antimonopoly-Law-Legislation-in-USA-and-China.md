@@ -3,8 +3,8 @@ title: Antimonopoly Law Legislation in USA and China
 categories:
   - 学术不神秘
 tags:
-  - 反垄断
-  - 法律
+  - antitrust
+  - law
 date: '2016-12-16 18:31:22'
 sticky: 0
 mathjax: false

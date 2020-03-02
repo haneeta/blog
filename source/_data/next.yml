@@ -55,11 +55,11 @@ footer:
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/v4.7.0/icons/
     # `heart` is recommended with animation in red (#ff0000).
-    name: heart
+    name: paper-plane
     # If you want to animate the icon, set it to true.
-    animated: true
+    animated: false
     # Change the color of icon, using Hex Code.
-    color: "#ff0000"
+    color: ''
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
@@ -133,7 +133,7 @@ menu:
     default: /about/ || location-arrow
     share: /share || share-alt
     friends: /friends || heart
-    site: /site || globe
+    overview: /overview || globe
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -640,7 +640,7 @@ valine:
   avatar: wavatar # Gravatar style
   guest_info: nick,mail # Custom comment header, nick,mail,link 
   pageSize: 10 # Pagination size
-  language: zh-cn # Language, available values: en, zh-cn
+  language: # Language, available values: en, zh-cn
   visitor: false # Article reading statistic
   comment_count: true # If false, comment count will only be displayed in post page, not in home page
   recordIP: true # Whether to record the commenter IP

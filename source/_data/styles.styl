@@ -19,14 +19,10 @@ body {
   margin-left: 3px; 
   border-radius: $site-card-radius;
   border-radius: 8px;
-//  -webkit-box-shadow: 0 0 14px #cacbcb;
-//  -moz-box-shadow: 0 0 14px #cacbcb;
-//  box-shadow: 0 0 14px #cacbcb;
-//  background: #fff;
   
   @media (max-width: 767px) {
     padding: 25px 0 15px !important;
-    margin: 0 15px 20px;
+    margin: 8px 15px 20px !important;
   }
 }
 
@@ -221,9 +217,9 @@ blockquote p, .post-body .note {
   }
 }
 
-//归档页关闭Cheers
-.collection-title {
-  display: none !important;
+//标签标题
+.posts-collapse .collection-header {
+  width: -webkit-fill-available;
 }
 
 //页码栏

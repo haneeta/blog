@@ -34,6 +34,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - README.md
+  - 404.html
   - admin/**
   - js/photos.js
   - js/friends.js
@@ -71,10 +72,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  书影拾光机: bookmovie
-  学术不神秘: academic
-  生活随手记: notes
-  碎碎念不停: ramble
+  学术向: academic
+  碎碎念: ramble
+  观察者: view
+  随手记: notes
 tag_map:
 
 # Metadata elements

@@ -22,7 +22,7 @@ minify: true
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
 custom_file_path:
-#  head: source/_data/head.swig
+  head: source/_data/head.swig
 #  header: source/_data/header.swig
 #  sidebar: source/_data/sidebar.swig
 #  postMeta: source/_data/post-meta.swig
@@ -134,6 +134,7 @@ menu:
     share: /share || share-alt
     friends: /friends || heart
     site: /site || globe
+  i18n: /en || language
 
 # Enable / Disable menu icons / item badges.
 menu_settings:

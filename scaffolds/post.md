@@ -5,10 +5,9 @@ categories:
 tags:
   - 
 date: '{{ date }}'
-top: false
+sticky: 0
 mathjax: false
 comments: true
-reward: true
 abbrlink:
 ---
 

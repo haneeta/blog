@@ -74,8 +74,8 @@ default_category: uncategorized
 category_map:
   学术向: academic
   碎碎念: ramble
-  观察者: view
-  随手记: notes
+  观察者: viewpoint
+  随手记: note
 tag_map:
 
 # Metadata elements

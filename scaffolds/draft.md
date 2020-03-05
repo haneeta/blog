@@ -4,6 +4,7 @@ categories:
   - 
 tags:
   - 
-mathjax:
-no_toc:
+sticky: 0
+mathjax: false
+comments: true
 ---

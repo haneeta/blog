@@ -40,9 +40,9 @@ collections:
       - {label: "评论", name: "comments", widget: "boolean", default: true}
       - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
       - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
-  - name: "view"
+  - name: "viewpoint"
     label: "观察者"
-    folder: "/source/_posts/view"
+    folder: "/source/_posts/viewpoint"
     create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
     fields:
@@ -55,9 +55,9 @@ collections:
       - {label: "评论", name: "comments", widget: "boolean", default: true}
       - {label: "永久链接", name: "abbrlink", widget: "string", default: "", required: false}
       - {label: "正文", name: "body", widget: "markdown", default: "<!-- more -->"}
-  - name: "notes"
+  - name: "note"
     label: "随手记"
-    folder: "/source/_posts/notes"
+    folder: "/source/_posts/note"
     create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
     fields:

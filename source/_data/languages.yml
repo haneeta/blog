@@ -3,14 +3,14 @@ zh-CN:
     category: 专栏
   menu:
     home: 博客首页
-    summary: 分类标签
+    overview: 分类标签
     categories: 分类专栏
     tags: 各种标签
     photos: 光影留痕
     about: 关于更多
     share: 好物分享
     friends: 小伙伴们
-    overview: 站点概况
+    site: 站点概况
     search: 搜索文章
   sidebar:
     overview: 站点概览

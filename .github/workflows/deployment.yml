@@ -39,7 +39,7 @@ jobs:
       run: |
         export PATH="$PATH:$(yarn global bin)"
         yarn build 
-    #hhexo clean && mkdir public && cp -r en public && hexo generate
+    #hexo clean && mkdir public && cp -r en public && hexo generate
 
     - name: Deploy to Github
       env:

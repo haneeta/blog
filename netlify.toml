@@ -16,7 +16,7 @@ ID = "lei2rock-blog"
   publish = "/public"
 
   # Default build command.
-  command = ""
+  command = "hexo clean && mkdir public && cp -r en public && hexo generate"
 
 [[redirects]]
   from = "https://lei2rock-blog.netlify.com/*"

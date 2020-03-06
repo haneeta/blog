@@ -1,0 +1,43 @@
+name: Deploy
+
+on:
+  push:
+    braches: 
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2.0.0
+    - name: Setup Node.js for use with actions
+      uses: actions/setup-node@v1.1.0
+
+    - name: Cache node modules
+      uses: actions/cache@v1
+      env:
+        cache-name: cache-node-modules
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/yarn.lock') }}
+
+    - name: Generate Hexo Pages
+      run: |
+        yarn global add hexo-cli
+        yarn
+        hexo generate
+
+    - name: Deploy to Github
+      env:
+        GIT_NAME: lei2rock
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+        GH_REF: github.com/lei2rock/blog
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      run: |
+        git config --global user.name $GIT_NAME
+        git config --global user.email $GIT_EMAIL
+        sed -i "s/GH_TOKEN/$GH_TOKEN/g" ./_config.yml
+        hexo deploy -m "Build by GitHub Actions"

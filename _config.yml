@@ -35,7 +35,6 @@ i18n_dir: :lang
 skip_render:
   - README.md
   - 404.html
-  - admin/**
   - js/photos.js
   - js/friends.js
 

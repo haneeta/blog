@@ -1,5 +1,5 @@
 ## My blog
-[![Build Status](https://travis-ci.com/lei2rock/blog.svg?branch=src)](https://travis-ci.com/lei2rock/blog) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6295f8c-8bf4-4a15-a873-9ca989e0817a/deploy-status)](https://app.netlify.com/sites/lei2rock-blog/deploys)
+![Deployment](https://github.com/lei2rock/blog/workflows/Deployment/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6295f8c-8bf4-4a15-a873-9ca989e0817a/deploy-status)](https://app.netlify.com/sites/lei2rock-blog/deploys)
 
 This repo contains all contents of my blog based on [Hexo NexT](https://github.com/theme-next/hexo-theme-next). `src` branch contains source files and `master` branch includes web files published by Travis CI automatically.
 

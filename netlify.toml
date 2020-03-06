@@ -16,7 +16,7 @@ ID = "lei2rock-blog"
   publish = "/public"
 
   # Default build command.
-  command = "hexo generate"
+  command = ""
 
 # Redirect default Netlify subdomain to primary domain
 [[redirects]]
@@ -26,13 +26,13 @@ ID = "lei2rock-blog"
   force = true
 
 [[redirects]]
-  from = "/en/*"
-  to = "https://lei2rock-blog-en.netlify.com/:splat"
+  from = "/cloud/*"
+  to = "https://cloud-1256060851.cos.ap-shanghai.myqcloud.com/:splat"
   status = 200
   force = true
 
 [[redirects]]
-  from = "/cloud/*"
+  from = "/en/cloud/*"
   to = "https://cloud-1256060851.cos.ap-shanghai.myqcloud.com/:splat"
   status = 200
   force = true

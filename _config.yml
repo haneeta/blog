@@ -109,5 +109,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   - type: git
-    repo: https://GH_TOKEN@github.com/lei2rock/blog.git
-    branch: master
+    repo:
+    branch:

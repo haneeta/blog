@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo clean && mkdir public && cp -r en public && hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "rm -rf public && mkdir public && cd ../blog-en && hexo cl && hexo g && cp -r public ../blog/public/en && cd ../blog && hexo s"
   },
   "hexo": {
     "version": "4.2.0"
@@ -14,7 +14,6 @@
   "dependencies": {
     "hexo": "^4.2.0",
     "hexo-abbrlink": "^2.0.5",
-    "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-indexed": "^1.0.1",

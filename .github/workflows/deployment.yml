@@ -38,8 +38,8 @@ jobs:
     - name: Generate Static Files
       run: |
         export PATH="$PATH:$(yarn global bin)"
-        hexo clean
-        hexo generate
+        yarn build 
+    #hhexo clean && mkdir public && cp -r en public && hexo generate
 
     - name: Deploy to Github
       env:
@@ -50,7 +50,7 @@ jobs:
 
       run: |
         cd ./public && git init && git add .
-        git config user.name $GIT_NAME
-        git config user.email $GIT_EMAIL
+        git config --global user.name $GIT_NAME
+        git config --global user.email $GIT_EMAIL
         git commit -m "Site deployed by GitHub Actions"
         git push --force --quiet "https://${GH_TOKEN}@${REPO}" master:master

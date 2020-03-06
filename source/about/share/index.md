@@ -4,7 +4,7 @@ comments: true
 ---
 > 希望我们，都成为拥有好奇心与想象力的人，都是不断发现更大世界的有趣人类。
 
-{% tabs leisure %}
+{% tabs share %}
 
 <!-- tab 阅读@book -->
 ## 1. 书目
@@ -99,7 +99,6 @@ comments: true
 
 ### 3.1 新闻资讯
 
-* [财新网](http://www.caixin.com/?HOLDZH) <font color=#bbb>专业财经资讯</font>
 * [观察者网](https://www.guancha.cn) <font color=#bbb>综合时政要闻</font>
 * [路透中文网 Reuters](https://cn.reuters.com) <font color=#bbb>综合政经要闻</font>
 * [联合早报](https://www.zaobao.com) <font color=#bbb>新加坡华文媒体</font>

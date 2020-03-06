@@ -1252,7 +1252,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a4854d;
+  background: #ffff14;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2808,12 +2808,12 @@ mjx-container + br {
   }
 }
 .site-brand-container {
-  background: url("../images/header-bg.jpg");
+  background: url("/images/header-bg.jpg");
   background-position: 70% 20%;
   background-size: cover;
 }
 body {
-  background-image: url("../images/body-bg.png");
+  background-image: url("/images/body-bg.png");
   background-repeat: repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2900,7 +2900,7 @@ ul.breadcrumb {
   display: none !important;
 }
 textarea#veditor.veditor.vinput {
-  background: url("../images/comment_bg.png") 100% 100% no-repeat;
+  background: url("/images/comment_bg.png") 100% 100% no-repeat;
 }
 .posts-expand .post-title {
   font-weight: 900;

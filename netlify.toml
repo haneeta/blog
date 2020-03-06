@@ -18,7 +18,6 @@ ID = "lei2rock-blog"
   # Default build command.
   command = ""
 
-# Redirect default Netlify subdomain to primary domain
 [[redirects]]
   from = "https://lei2rock-blog.netlify.com/*"
   to = "https://blog.dlzhang.com/:splat"

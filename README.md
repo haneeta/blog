@@ -1,7 +1,7 @@
 ## My blog
 ![Deployment](https://github.com/lei2rock/blog/workflows/Deployment/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6295f8c-8bf4-4a15-a873-9ca989e0817a/deploy-status)](https://app.netlify.com/sites/lei2rock-blog/deploys)
 
-This repo contains all contents of my blog based on [Hexo NexT](https://github.com/theme-next/hexo-theme-next). `src` branch contains source files and `master` branch includes web files published by Travis CI automatically.
+This repo contains all contents of my blog based on [Hexo NexT](https://github.com/theme-next/hexo-theme-next). `src` branch contains source files and `master` branch includes web files deployed by GitHub Actions automatically.
 
 ### Copyright
 The copyright in all material published in `src` branch `/source` folder (the “material”) is owned by [ZHANG Donglei](https://dlzhang.com), unless otherwise indicated. The material is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

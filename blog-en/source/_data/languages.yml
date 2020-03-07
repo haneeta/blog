@@ -1,0 +1,23 @@
+en:
+  menu:
+    overview: Overview
+    photos: Gallery
+    i18n: 中文版
+    share: Share
+    friends: Friends
+    site: Site Overview
+  post:
+    posted: " "
+    comments:
+      valine: Comments
+  counter:
+    tag_cloud:
+      zero: '<i class="fa fa-fw fa-tags"></i> No tags'
+      one: '<i class="fa fa-fw fa-tags"></i> 1 tag in total'
+      other: '<i class="fa fa-fw fa-tags"></i> %d tags in total'
+    categories:
+      zero: '<i class="fa fa-fw fa-th"></i> No categories'
+      one: '<i class="fa fa-fw fa-th"></i> 1 category in total'
+      other: '<i class="fa fa-fw fa-th"></i> %d categories in total'
+  reward:
+    donate: <i class="fa fa-qrcode fa-2x" style="line-height:35px;"></i>

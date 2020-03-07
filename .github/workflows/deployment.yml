@@ -33,13 +33,13 @@ jobs:
     - name: Install Dependencies
       run: |
         yarn global add hexo-cli
-        yarn install
+        cd blog-en && yarn install
+        cd ../ && yarn install
 
     - name: Generate Static Files
       run: |
         export PATH="$PATH:$(yarn global bin)"
         yarn build 
-    #hexo clean && mkdir public && cp -r en public && hexo generate
 
     - name: Deploy to Github
       env:

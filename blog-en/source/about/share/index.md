@@ -1,17 +1,19 @@
 ---
-title: 好物分享
+title: Share
 comments: true
 ---
+{% note info %} Only provide Chinese version. To be translated later. {% endnote %}
+
 > 希望我们，都成为拥有好奇心与想象力的人，都是不断发现更大世界的有趣人类。
 
 {% tabs share %}
 
-<!-- tab 书单@book -->
-### 1.1 在读书目
+<!-- tab Booklist@book -->
+### 1.1 Reading
 
 * [**明朝那些事儿**](https://book.douban.com/subject/6878988/). 当年明月. 2011
 
-### 1.2 已读书目
+### 1.2 Read
 
 * [**台湾这些年所知道的祖国**](https://book.douban.com/subject/25864000/). 廖信忠. 2014
 作者的系列作品了，不过说实话没有最初的《我们台湾这些年》好看。
@@ -42,10 +44,10 @@ comments: true
 * [**他改变了中国**](https://book.douban.com/subject/1258378/). [美] 罗伯特 · 劳伦斯 · 库恩. 2005
 <!-- endtab -->
 
-<!-- tab 纪录片@video-camera -->
+<!-- tab Documentary@video-camera -->
 一些自己看过的优秀纪录片，以 CCTV 与 BBC 拍摄的纪录片为主，类型大多属于人文历史或者社会纪实。自然地理方面的纪录片很少，大概这个题材的拍摄风格大多不太喜欢。
 
-### 2.1 国产纪录片
+### 2.1 Chinese
 * **超级工程** <font color=#bbb>CCTV 社会纪实</font>
 第三季模仿了 PBS 的 America Revealed，之前看时候就在想中国什么时候也这样拍一部就完美了，然后央视就满足了我的愿望；此外饱受争议的纪录片《辉煌中国》与电影《厉害了我的国》很多素材其实来自超级工程相关纪录片，所以剪辑拼凑痕迹明显，制作比较粗糙，看辉煌中国还不如看超级工程。
 
@@ -70,14 +72,14 @@ comments: true
 * **我的铁路，我的故事** <font color=#bbb>CCTV 社会纪实</font>
 中国援建蒙巴萨-内罗毕铁路的故事，该片有英文版 My Railway, My Story；该片中有很多有趣的援非工程故事，以小见大讲述了中国援非工程的实施过程。
 
-### 2.2 日本纪录片
+### 2.2 Japanese
 * **纪实72小时 ドキュメント72時間** <font color=#bbb>NHK 社会纪实</font>
 用72小时不间断地拍摄记录日本的寻常生活，有欢笑有悲伤，每集看完总有一种依依不舍之情。目前，东方卫视也引进了版权，拍摄了中国版的《纪实72小时》。
 
 * **可以跟着去你家吗？ 家、ついて行ってイイですか?** <font color=#bbb>东京电视台 社会纪实</font>
 节目专门访问赶不上末班电车的陌生人，以支付计程车费来换取跟随到他们家访问的机会，进而领略纪录人生百态。
 
-### 2.3 欧美纪录片
+### 2.3 European & American
 * **透视美国 America Revealed** <font color=#bbb>PBS 社会纪实</font>
 用俯视的视角，从食品、交通、能源、制造四个方面全景展示了美国各个产业概况和不为人知的细节。最开始看的时候对美国的产业状况叹为观止，后来看了央视《超级工程》第三季发现我们用同样的视角也可以展现一个有活力、有创造力的中国。
 

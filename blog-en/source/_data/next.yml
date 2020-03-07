@@ -40,12 +40,12 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16.png
-  medium: /images/favicon-32x32.png
-  apple_touch_icon: /images/apple-touch-icon.png
-  safari_pinned_tab: /images/safari-pinned-tab.svg
-  android_manifest: /images/site.webmanifest
-  ms_browserconfig: /images/browserconfig.xml
+  small: ../images/favicon-16x16.png
+  medium: ../images/favicon-32x32.png
+  apple_touch_icon: ../images/apple-touch-icon.png
+  safari_pinned_tab: ../images/safari-pinned-tab.svg
+  android_manifest: ../images/site.webmanifest
+  ms_browserconfig: ../images/browserconfig.xml
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
@@ -125,15 +125,15 @@ darkmode: false
 menu:
   home: / || home
   overview: 
-    default: /overview/ || bookmark
-    categories: /categories || th
-    tags: /tags || tags
-  photos: /photos/ || camera-retro
+    default: overview/ || bookmark
+    categories: categories || th
+    tags: tags || tags
+  photos: photos || camera-retro
   about:
-    default: /about/ || location-arrow
-    share: /share || share-alt
-    friends: /friends || heart
-    site: /site || globe
+    default: about/ || location-arrow
+    share: share || share-alt
+    friends: friends || heart
+    site: site || globe
   i18n: /en || language
 
 # Enable / Disable menu icons / item badges.
@@ -174,7 +174,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/blog-avatar.jpg
+  url: ../images/blog-avatar.jpg
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
@@ -188,7 +188,7 @@ site_state: false
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  微博: https://weibo.com/1156774800 || weibo
+  Weibo: https://weibo.com/1156774800 || weibo
   Twitter: https://twitter.com/lei2rock || twitter
   GitHub: https://github.com/lei2rock || github
   #E-Mail: mailto:yourname@gmail.com || envelope
@@ -276,7 +276,7 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: false
-  comment: <p style="color:#34495e; margin:0 0 5px 0;">🍭支持一根棒棒糖！</p>
+  comment: <p style="color:#34495e; margin:0 0 5px 0;">☕️ Buy me a coffee!</p>
 
 reward:
   wechatpay: /cloud/images/wx_reward.jpg
@@ -296,7 +296,7 @@ follow_me:
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
 related_posts:
   enable: true
-  title: 相关推荐 # Custom header, leave empty to use the default one
+  title: # Custom header, leave empty to use the default one
   display_in_home: false
   params:
     maxCount: 5
@@ -443,7 +443,7 @@ font:
   # Font settings for site title (.site-title).
   title:
     external: true
-    family: Long Cang
+    family: Caveat
     size: 2
 
   # Font settings for headlines (<h1> to <h6>).
@@ -637,11 +637,11 @@ valine:
   appkey: 5jRfX3rExENmJqhdzkRqPndP # Your leancloud application appkey
   notify: false # Mail notifier
   verify: false # Verification code
-  placeholder: 记得留下邮箱，可以快速收到回复提醒。 # Comment box placeholder
+  placeholder: To receive reply notify, please provide E-Mail. # Comment box placeholder
   avatar: wavatar # Gravatar style
   guest_info: nick,mail # Custom comment header, nick,mail,link 
   pageSize: 10 # Pagination size
-  language: # Language, available values: en, zh-cn
+  language: en # Language, available values: en, zh-cn
   visitor: false # Article reading statistic
   comment_count: true # If false, comment count will only be displayed in post page, not in home page
   recordIP: true # Whether to record the commenter IP

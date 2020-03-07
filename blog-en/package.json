@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo clean && cd blog-en && hexo clean && hexo generate && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo generate",
+    "build": "hexo clean && hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo clean && cd blog-en && hexo clean && hexo generate && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo s"
+    "server": "hexo server"
   },
   "hexo": {
     "version": "4.2.0"

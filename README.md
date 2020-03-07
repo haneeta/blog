@@ -8,6 +8,6 @@ This repo contains all contents of my blog. `src` branch contains source files a
 
 ## Copyright
 
-The copyright in all materials provided in this repository (the materials) is held by [ZHANG Donglei](https://dlzhang.com) or by the original creator of the material. All content and functionality on the Site, including text, graphics, logos, icons, and images and the selection and arrangement thereof, is the exclusive property of ZHANG Donglei or the copyright owners and is protected by P.R.China and international copyright laws. The materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For commercial use, please contact me by email first.
+All articles and photos provided in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For commercial use, please contact me by email first.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

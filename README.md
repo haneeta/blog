@@ -1,5 +1,5 @@
 # My blog
-![Deployment](https://github.com/lei2rock/blog/workflows/Deployment/badge.svg)
+[![Deployment](https://github.com/lei2rock/blog/workflows/Deployment/badge.svg)](https://github.com/lei2rock/blog/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f6295f8c-8bf4-4a15-a873-9ca989e0817a/deploy-status)](https://app.netlify.com/sites/lei2rock-blog/deploys)
 [![Genertor](https://img.shields.io/badge/Generte-Hexo-blue.svg)](https://hexo.io)
 [![Theme](https://img.shields.io/badge/Theme-NexT-blue.svg)](https://theme-next.org)

@@ -1,26 +1,31 @@
 [{
 		"nickname": "moliu",
-		"avatar": "http://shuxinyang.com/aboutme/Denise2.jpg",
-		"site": "http://shuxinyang.com"
+		"avatar": "https://cdn.jsdelivr.net/gh/moliusmile/moliusmile.github.io/aboutme/Denise2.jpg",
+		"site": "https://shuxinyang.com"
 	},
 	{
 		"nickname": "miyehn",
-		"avatar": "https://avatars1.githubusercontent.com/u/10361785",
+		"avatar": "https://ww4.sinaimg.cn/mw690/41c37897jw1e0w6d9hquaj.jpg",
 		"site": "https://miyehn.me/blog"
 	},
 	{
 		"nickname": "阿十九",
-		"avatar": "https://blog.ashijiu.com/images/mao.jpg",
+		"avatar": "https://cdn.jsdelivr.net/gh/ashijiu/ashijiu.github.io/images/mao.jpg",
 		"site": "https://blog.ashijiu.com"
 	},
 	{
 		"nickname": "枫糖",
-		"avatar": "https://blog.maplesugar.space/uploads/maple-leaf-avatar.jpg",
+		"avatar": "https://cdn.jsdelivr.net/gh/maplesugarr/blog-assets/imgs/maple-leaf-avatar.jpg",
 		"site": "https://blog.maplesugar.space"
 	},
 	{
 		"nickname": "元哥的日记",
-		"avatar": "https://avatars1.githubusercontent.com/u/33855278",
+		"avatar": "https://liyuanimage.oss-cn-beijing.aliyuncs.com/img/20191219220643.jpeg",
 		"site": "https://leeee.top"
+	},
+	{
+		"nickname": "兰铃",
+		"avatar": "https://cdn.jsdelivr.net/gh/muyuuuu/muyuuuu.github.io/images/avatar.gif",
+		"site": "https://muyuuuu.github.io"
 	}
 ]

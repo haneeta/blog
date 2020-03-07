@@ -10,9 +10,8 @@ The sentence "无曰已是，无曰遂真" under the site title is from the [ant
 All materials provided on this site are licensed under a [<i class="fa fa-fw fa-creative-commons"></i> BY-NC-SA 4.0 License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For commercial use, please contact me by email first.
 
 ### Find me around the web
-
-　<i class="fa fa-fw fa-envelope"></i>&nbsp;&nbsp;idonglei (at) foxmail.com
-　<i class="fa fa-fw fa-weibo"></i>&nbsp;&nbsp;[Weibo](https://weibo.com/1156774800 "@木东三石")
-　<i class="fa fa-fw fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/lei2rock "@lei2rock")
-　<i class="fa fa-fw fa-github"></i>&nbsp;&nbsp;[GitHub](https://github.com/lei2rock "@lei2rock")
+&emsp;<i class="fa fa-fw fa-envelope"></i> `idonglei(at)foxmail.com`
+&emsp;<i class="fa fa-fw fa-weibo"></i> [Weibo](https://weibo.com/1156774800 "@木东三石")
+&emsp;<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock "@lei2rock")
+&emsp;<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock "@lei2rock")
 {% img /cloud/images/wx_channel.jpg 150 WeChat Channel %}

@@ -9,6 +9,14 @@
 
 This repo contains all contents of my blog. `src` branch contains source files and `master` branch includes static web files deployed by GitHub Actions.
 
+## Framework
+
+The blog is powered by Hexo - NexT Gemini and hosted on Netlify. Other tools used in this blog are as follows:
+
+* Comment System：Valine + LeanCloud
+* Website Traffic Statistics：LeanCloud + Google Analytics 
+* Static Assets Storage：Tencent Cloud Object Storage (COS)
+
 ## Copyright
 
 All articles and photos provided in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For commercial use, please contact me by email first.

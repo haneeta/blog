@@ -6,15 +6,7 @@ comments: true
 
 标题下方的句子摘自母校[浙江大学校歌](https://www.bilibili.com/video/av15024170)歌词「无曰已是，无曰遂真；靡革匪因，靡故匪新」。告诉人们不要说已把握事物本质，也不要说已穷尽真理；没有什么变革不需要继承，没有什么传统不可以创新。
 
-### 技术框架
-
-本站采用了 Hexo 静态博客框架，主题为 NexT Gemini，托管在 Netlify。除此之外，评论、统计等功能使用了以下服务：
-
-* 评论系统：Valine + LeanCloud
-* 访客统计：LeanCloud + 谷歌分析
-* 静态资源：腾讯云对象存储
-
-如果要反馈本站存在的问题，敬请在评论区留言，或发邮件联系我，亦可[在 GitHub 反馈](https://github.com/lei2rock/blog/issues)。
+本站的源代码发布在[GitHub](https://github.com/lei2rock/blog)。如果要反馈本站存在的问题，敬请在评论区留言或邮件联系我，亦可[在GitHub反馈](https://github.com/lei2rock/blog/issues)。
 
 ### 著作权声明
 

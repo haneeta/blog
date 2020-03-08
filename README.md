@@ -4,8 +4,8 @@
 [![Theme](https://img.shields.io/badge/Theme-NexT-181717.svg?&style=flat-square)](https://theme-next.org)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?&logo=github&style=flat-square)](https://github.com/lei2rock/blog)
 [![Deploy](https://img.shields.io/github/workflow/status/lei2rock/blog/Deployment?label=Deploy&logo=github&style=flat-square)](https://github.com/lei2rock/blog/actions)
-[![Host](https://img.shields.io/badge/Host-Netlify-00c7b7?&logo=netlify&style=flat-square)](https://www.netlify.com/)
-[![Netlify Status](https://img.shields.io/netlify/f6295f8c-8bf4-4a15-a873-9ca989e0817a?color=00c7b7&label=Netlify+Status&logo=Netlify&style=flat-square)](https://app.netlify.com/sites/lei2rock-blog/deploys)
+[![Host](https://img.shields.io/badge/Host-Netlify-009387?&logo=netlify&style=flat-square)](https://www.netlify.com/)
+[![Netlify Status](https://img.shields.io/netlify/f6295f8c-8bf4-4a15-a873-9ca989e0817a?color=009387&label=Netlify+Status&logo=Netlify&style=flat-square)](https://app.netlify.com/sites/lei2rock-blog/deploys)
 
 This repo contains all contents of my blog. `src` branch contains source files and `master` branch includes static web files deployed by GitHub Actions.
 

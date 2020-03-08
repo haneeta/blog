@@ -264,8 +264,6 @@ symbols_count_time:
   separated_meta: true
   item_text_post: true
   item_text_total: false
-  awl: 4
-  wpm: 275
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: true
@@ -276,7 +274,7 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: false
-  comment: <p style="color:#34495e; margin:0 0 5px 0;">🍭支持一根棒棒糖！</p>
+  comment: <p style="color:#34495e; margin:0 0 5px 0;">🍭 支持一根棒棒糖！</p>
 
 reward:
   wechatpay: /cloud/images/wx_reward.jpg

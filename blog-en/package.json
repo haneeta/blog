@@ -5,7 +5,6 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
     "server": "hexo server"
   },
   "hexo": {
@@ -15,6 +14,7 @@
     "hexo": "^4.2.0",
     "hexo-abbrlink": "^2.0.5",
     "hexo-generator-category": "^1.0.0",
+    "hexo-generator-feed": "^2.2.0",
     "hexo-generator-indexed": "^1.0.1",
     "hexo-generator-search": "^2.4.0",
     "hexo-generator-sitemap": "^2.0.0",

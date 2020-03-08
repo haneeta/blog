@@ -2,95 +2,83 @@
 title: Share
 comments: true
 ---
-{% note info %} Only provide Chinese version. To be translated later. {% endnote %}
-
-> 希望我们，都成为拥有好奇心与想象力的人，都是不断发现更大世界的有趣人类。
+> Hope that we all become people with curiosity and imagination, who are constantly discovering the larger world.
 
 {% tabs share %}
 
 <!-- tab Booklist@book -->
 ### 1.1 Reading
-
-* [**明朝那些事儿**](https://book.douban.com/subject/6878988/). 当年明月. 2011
+* [**Stories about Ming Dynasty**](https://book.douban.com/subject/6878988/). Dangnian Mingyue. 2011
 
 ### 1.2 Read
-
-* [**台湾这些年所知道的祖国**](https://book.douban.com/subject/25864000/). 廖信忠. 2014
-作者的系列作品了，不过说实话没有最初的《我们台湾这些年》好看。
-* [**我们台湾这些年**](https://book.douban.com/subject/4113090/). 廖信忠. 2009
-  一个个小人物的故事构成了台湾社会发展的方方面面，一本书或许不能帮助我们认识了解这个宝岛的过往，但是可以带给一个我们更真切的台湾。
-* [**目击中国100年**](https://book.douban.com/subject/2004652/). 成勇. 2002
-十分用心编写的一本书，或者更准确说是画册。用照片的方式展现有照片记录以来中国 20 世纪的诸多历史瞬间，让我们得以了解更生动立体的近现代中国。
-* [**邓小平时代**](https://book.douban.com/subject/20424526/). [美] 傅高义. 2013
-资料翔实，叙述详尽，向我们展现了改革开放前后那个瞬息万变的历史时期。
-* [**為了活下去：脫北女孩朴研美**](https://book.douban.com/subject/26847432/). [韩] 朴研美. 2016
-台湾旅游时候买回来的书，对于描述作者个人的经历确实比较同情，但是后面对于中国做法的看法以及对于基督教的理解还是不太认同的。特别是韩国传教士的问题，或许对作者这样的人来说是帮助，但是在中国的疯狂传教其实是很大隐患。
-* [**进击的局座**](https://book.douban.com/subject/26899255/). 张召忠. 2016
-局座的书，看中名气买的电子书，语言很朴实很真诚，不过不是我喜欢的话题和风格。
-* [**漫画世界系列3：漫画德国**](https://book.douban.com/subject/26285840/). [韩] 李元馥. 2015
-高中时候班主任推荐的丛书，从漫画的角度了解各国的社会人文历史，也是很有趣味的，还希望能够把这套书都读一遍。
-* [**科学探索者 · 天文学**](https://book.douban.com/subject/1526244/). [美] 帕迪利亚. 2002
-小时候的天文学科普启蒙书之一，里面的好多小实验很有趣味，讲解的一些知识点现在都有印象。
-* [**放飞神舟**](https://book.douban.com/subject/1137118/). 石磊. 2003
-  我对中国载人航天的最初了解就是这本书带给我的，放飞神舟放飞的不只是载人飞船，而是这个民族几千年来的飞天梦想。如今，月球上的玉兔月球车正在延续我们的下一个梦想。
-* [**新卖桔者言**](https://book.douban.com/subject/4238941/). [美] 张五常. 2010
-* [**幸福了吗？**](https://book.douban.com/subject/5252677/). 白岩松. 2010
-* [**鲁滨逊漂流记**](https://book.douban.com/subject/1016003/). [英] 笛福. 2002
-* [**一九八四**](https://book.douban.com/subject/3815131/). [英] 乔治 · 奥威尔. 2009
-* [**动物庄园**](https://book.douban.com/subject/26371139/). [英] 乔治 · 奥威尔. 2014
-* [**文化苦旅**](https://book.douban.com/subject/1050339/). 余秋雨. 2001
-* [**看见**](https://book.douban.com/subject/20427187/). 柴静. 2013
-* [**围城**](https://book.douban.com/subject/1008145/). 钱钟书. 1991
-* [**他改变了中国**](https://book.douban.com/subject/1258378/). [美] 罗伯特 · 劳伦斯 · 库恩. 2005
+* [**The Motherland in Taiwanese Eyes These Years**](https://book.douban.com/subject/25864000/). Liao Hsin-chung. 2014
+* [**Our Taiwan in These Years**](https://book.douban.com/subject/4113090/). Liao Hsin-chung. 2009
+* [**Eyewitnessing China of a century**](https://book.douban.com/subject/2004652/). Cheng Yong. 2002
+* [**Deng Xiaoping and the Transformation of China**](https://book.douban.com/subject/20424526/). Ezra F. Vogel. 2013
+* [**In Order to Live: A North Korean Girl's Journey to Freedom**](https://book.douban.com/subject/26847432/). Park Yeon-mi. 2016
+* [**A Gentle Whisper**](https://book.douban.com/subject/26899255/). Zhang Zhaozhong. 2016
+* [**Far Countries, neighboring Countries - Germany**](https://book.douban.com/subject/26285840/). Rhie Won-bok. 2015
+* [**Science Explorer: Astronomy**](https://book.douban.com/subject/1526244/). Michael J. Padilla. 2002
+* [**Launch of Shenzhou**](https://book.douban.com/subject/1137118/). Shi Lei. 2003
+* [**Orange Sellers Say**](https://book.douban.com/subject/4238941/). Steven N. S. Cheung. 2010
+* [**Are You Happy?**](https://book.douban.com/subject/5252677/). Bai Yansong. 2010
+* [**Robinson Crusoe**](https://book.douban.com/subject/1016003/). Daniel Defoe. 2002
+* [**Nineteen Eighty-Four**](https://book.douban.com/subject/3815131/). George Orwell. 2009
+* [**Animal Farm**](https://book.douban.com/subject/26371139/). George Orwell. 2014
+* [**The Agonized Journey of Culture**](https://book.douban.com/subject/1050339/). Yu Qiuyu. 2001
+* [**Insight**](https://book.douban.com/subject/20427187/). Chai Jing. 2013
+* [**Fortress Besieged**](https://book.douban.com/subject/1008145/). Qian Zhongshu. 1991
+* [**The Man Who Changed China**](https://book.douban.com/subject/1258378/). Robert Lawrence Kuhn. 2005
 <!-- endtab -->
 
 <!-- tab Documentary@video-camera -->
-一些自己看过的优秀纪录片，以 CCTV 与 BBC 拍摄的纪录片为主，类型大多属于人文历史或者社会纪实。自然地理方面的纪录片很少，大概这个题材的拍摄风格大多不太喜欢。
-
 ### 2.1 Chinese
-* **超级工程** <font color=#bbb>CCTV 社会纪实</font>
-第三季模仿了 PBS 的 America Revealed，之前看时候就在想中国什么时候也这样拍一部就完美了，然后央视就满足了我的愿望；此外饱受争议的纪录片《辉煌中国》与电影《厉害了我的国》很多素材其实来自超级工程相关纪录片，所以剪辑拼凑痕迹明显，制作比较粗糙，看辉煌中国还不如看超级工程。
+* **China's Mega Projects** <font color=#bbb>CCTV, Technology</font>
+Focusing on the major large-scale construction projects underway in China.
 
-* **舌尖上的中国、风味人间** <font color=#bbb>CCTV 腾讯视频 社会纪实</font>
-两部都是陈晓卿的美食纪录片，必须好评。前者所述美食遍布中华大地，而后者不只是局限在中国，一大亮点就是中外对于同一种食材或者不同风格食材处理方式的对比。不过《舌尖上的中国》只推荐第一、二季，第三季水平下滑严重，不值得推荐。
+* **A Bite of China** <font color=#bbb>CCTV, Society & Culture</font>
+The history of food, eating, and cooking in China by Chen Xiaoqing.
 
-* **过台湾** <font color=#bbb>CCTV 人文历史</font>
-讲述台湾1945年光复之前400年的历史变迁，史料翔实覆盖广泛，配乐也超级有魔性；如果需要了解台湾光复前后的历史还可以看《台湾·1945》。
+* **Once Upon A Bite** <font color=#bbb>Tencent Video, Society & Culture</font>
+Looking at food from a Chinese perspective by Chen Xiaoqing.
 
-* **我在故宫修文物** <font color=#bbb>CCTV 人文历史</font>
-网红纪录片不解释
+* **To Reach Taiwan 过台湾** <font color=#bbb>CCTV, History</font>
+The history of Taiwan before 1945.
 
-* **再说长江** <font color=#bbb>CCTV 社会纪实</font>
-长江流域人文风土纪录片，呼应八十年代爆火纪录片《话说长江》。话说长江算是和同年代央视纪录片《河殇》走了不同的路线，该片在讲述人文风土同时也某种程度上提升了当时民众的民族自豪感与自信心
+* **Masters in The Forbidden City** <font color=#bbb>CCTV, Culture</font>
+Documenting the ancient artworks restorers' daily in the museum of Forbidden City.
 
-* **大国崛起** <font color=#bbb>CCTV 人文历史</font>
-讲述西方历史上各强国崛起历史，本质是为了探究中国复兴之路，这个目的从纪录片最后一集就可以看出来了。此外，该纪录片的旁白稿子很棒，单独拿出来都是一份很好的学习材料。
+* **Rediscovering the Yangtze River** <font color=#bbb>CCTV, Society</font>
+Exploring the Yangtze River using advanced aerospace filming technology.
 
-* **东方卫视医警系列** <font color=#bbb>东方卫视 社会纪实</font>
-有《巡逻现场实录》、《急诊室故事》、《生命时速·紧急救护120》等多部，跟踪拍摄上海市的警察巡逻、院前急救、急诊室抢救等故事，既是记录社会生活的点点滴滴，也展现了管理上海市这样一个超大型城市所需要的精细度。
+* **The Rise of the Great Powers** <font color=#bbb>CCTV, History</font>
+Exploring the nature of influence and power through history, from ancient Rome to the United States in the 20th century.
 
-* **我的铁路，我的故事** <font color=#bbb>CCTV 社会纪实</font>
-中国援建蒙巴萨-内罗毕铁路的故事，该片有英文版 My Railway, My Story；该片中有很多有趣的援非工程故事，以小见大讲述了中国援非工程的实施过程。
+* **Documentary series about first-aid & police in Shanghai** <font color=#bbb>Shanghai Dragon TV, Society</font>
+Recording minutia of social life in Shanghai and also show the delicacy management of a very large city.
+
+* **My Railway, My Story** <font color=#bbb>CCTV, Society</font>
+The stories of ordinary Kenyan and Chinese builders of Kenya’s landmark railway Mombasa-Nairobi Standard Gauge Railways.
 
 ### 2.2 Japanese
-* **纪实72小时 ドキュメント72時間** <font color=#bbb>NHK 社会纪实</font>
-用72小时不间断地拍摄记录日本的寻常生活，有欢笑有悲伤，每集看完总有一种依依不舍之情。目前，东方卫视也引进了版权，拍摄了中国版的《纪实72小时》。
+* **Document 72 Hours** <font color=#bbb>NHK, Society</font>
+The film-maker documents a chance encounter with people in different situations at various selected locations in order to explore the many facets of human behaviour.
 
-* **可以跟着去你家吗？ 家、ついて行ってイイですか?** <font color=#bbb>东京电视台 社会纪实</font>
-节目专门访问赶不上末班电车的陌生人，以支付计程车费来换取跟随到他们家访问的机会，进而领略纪录人生百态。
+* **Can I Follow You Home?** <font color=#bbb>TV Tokyo, Society</font>
+Discovering how people react when a TV crew suddenly visits their home after midnight.
 
 ### 2.3 European & American
-* **透视美国 America Revealed** <font color=#bbb>PBS 社会纪实</font>
-用俯视的视角，从食品、交通、能源、制造四个方面全景展示了美国各个产业概况和不为人知的细节。最开始看的时候对美国的产业状况叹为观止，后来看了央视《超级工程》第三季发现我们用同样的视角也可以展现一个有活力、有创造力的中国。
+* **America Revealed** <font color=#bbb>PBS, Technology</font>
+Revealing a nation of sophisticated networks that help power the United States, produce millions of goods and transport people great distances.
 
-* **企鹅群里有特务 Penguins: Spy in the Huddle** <font color=#bbb>BBC 自然地理</font>
-自然地理纪录片里难得一部很喜欢的片子，光看着各种企鹅卖萌的样子就很疗愈了，颜值果然很重要。
+* **Penguins: Spy in the Huddle** <font color=#bbb>BBC, Nature</font>
+Spending nearly a year in their close company of penguins, deploying 50 spycams to capture as never before the true character of these birds.
 
-* **空中浩劫 Mayday** <font color=#bbb>Cineflix 社会纪实</font>
-各种惊心动魄，各种细致入微，细致的调查背后是对生命的尊重。
+* **Mayday** <font color=#bbb>Cineflix, Technology & Society</font>
+Revealing the dark truth that aviation safety improves one crash at a time, Mayday investigates legendary aviation disasters to find out what went wrong and why.
 
-* **我们的孩子足够坚强吗？中式学校 Are Our Kids Tough Enough? Chinese School** <font color=#bbb>BBC 社会纪实</font>
-让5名中国老师在英国南部汉普郡的一所中学实施 4 周中国式教学试验的故事。说实话，这样短期的社会实验没什么大的研究意义吧，一些评论把所谓的对比看得太严重了反而感觉不会，纯当作真人秀综艺节目看倒是很有趣的。
+* **Are Our Kids Tough Enough? Chinese School** <font color=#bbb>BBC, Education</font>
+In a unique experiment, five teachers from China take over the education of fifty teenagers in a Hampshire school to see whether the high-ranking Chinese education system can teach us a lesson.
 <!-- endtab -->
 
 {% endtabs %}

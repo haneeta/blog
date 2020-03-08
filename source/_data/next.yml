@@ -133,7 +133,6 @@ menu:
     default: /about/ || location-arrow
     share: /share || share-alt
     friends: /friends || heart
-    site: /site || globe
   i18n: /en || language
 
 # Enable / Disable menu icons / item badges.

@@ -29,7 +29,7 @@ source_dir: source
 public_dir: public
 tag_dir: overview/tags
 archive_dir: archives
-category_dir: overview/categories
+category_dir: overview
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:

@@ -125,8 +125,8 @@ darkmode: false
 menu:
   home: / || home
   overview: 
-    default: /overview/ || bookmark
-    categories: /categories || th
+    default: /overview/ || th
+    series: /series || list
     tags: /tags || tags
   photos: /photos/ || camera-retro
   about:
@@ -435,7 +435,7 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
+    family: EB Garamond
     size:
 
   # Font settings for site title (.site-title).

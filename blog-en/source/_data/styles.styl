@@ -30,7 +30,11 @@ body {
   border-radius: 8px;
 }
 
-//二级菜单
+//菜单
+.menu .menu-item a {
+  color: black;
+}
+
 .sub-menu {
   margin-top: $site-top-margin; 
   border-radius: $site-card-radius;
@@ -128,6 +132,10 @@ textarea#veditor.veditor.vinput  {
   cursor: initial;
 }
 
+.posts-expand .post-title-link {
+  color: black;
+}
+
 //首页文章标题
 .posts-expand article.post-block.home .post-title {
   text-align: left;
@@ -145,7 +153,7 @@ textarea#veditor.veditor.vinput  {
 
 //正文字号
 .post-body {
-  font-size: 1em;
+  font-size: 1.05em;
 }
 
 //链接文本样式
@@ -156,6 +164,11 @@ textarea#veditor.veditor.vinput  {
   &:hover {
     text-decoration: underline;
   }
+}
+
+//文章图片标题
+.post-body .image-caption {
+  margin: -10px auto 15px;
 }
 
 //段落中代码样式
@@ -177,6 +190,10 @@ blockquote p, .post-body .note {
     margin-left: 18px;
     margin-right: 18px;
   }
+}
+
+.popular-posts-header {
+  font-weight: bold;
 }
 
 //文章图片边框取消

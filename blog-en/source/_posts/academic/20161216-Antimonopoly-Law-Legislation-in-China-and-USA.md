@@ -1,5 +1,5 @@
 ---
-title: Antimonopoly Law Legislation in USA and China
+title: Antimonopoly Law Legislation in China and USA
 categories:
   - Academic
 tags:

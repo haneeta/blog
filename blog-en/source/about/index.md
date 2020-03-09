@@ -13,7 +13,7 @@ All materials provided on this site are licensed under a [<i class="fa fa-fw fa-
 
 ### Find me around the web
 &emsp;<i class="fa fa-fw fa-envelope"></i> `idonglei(at)foxmail.com`
-&emsp;<i class="fa fa-fw fa-weibo"></i> [Weibo](https://weibo.com/1156774800 "@木东三石")
-&emsp;<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock "@lei2rock")
-&emsp;<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock "@lei2rock")
+&emsp;<i class="fa fa-fw fa-weibo"></i> [Weibo](https://weibo.com/1156774800)
+&emsp;<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock)
+&emsp;<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock)
 {% img /cloud/images/wx_channel.jpg 150 WeChat Channel %}

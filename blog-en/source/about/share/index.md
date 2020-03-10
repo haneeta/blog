@@ -8,27 +8,27 @@ comments: true
 
 <!-- tab Booklist@book -->
 ### 1.1 Reading
-* [**Stories about Ming Dynasty**](https://book.douban.com/subject/6878988/). Dangnian Mingyue. 2011
+* [**Stories about Ming Dynasty**](https://book.douban.com/subject/6878988/). Dangnian Mingyue
 
 ### 1.2 Read
-* [**The Motherland in Taiwanese Eyes These Years**](https://book.douban.com/subject/25864000/). Liao Hsin-chung. 2014
-* [**Our Taiwan in These Years**](https://book.douban.com/subject/4113090/). Liao Hsin-chung. 2009
-* [**Eyewitnessing China of a century**](https://book.douban.com/subject/2004652/). Cheng Yong. 2002
-* [**Deng Xiaoping and the Transformation of China**](https://book.douban.com/subject/20424526/). Ezra F. Vogel. 2013
-* [**In Order to Live: A North Korean Girl's Journey to Freedom**](https://book.douban.com/subject/26847432/). Park Yeon-mi. 2016
-* [**A Gentle Whisper**](https://book.douban.com/subject/26899255/). Zhang Zhaozhong. 2016
-* [**Far Countries, neighboring Countries - Germany**](https://book.douban.com/subject/26285840/). Rhie Won-bok. 2015
-* [**Science Explorer: Astronomy**](https://book.douban.com/subject/1526244/). Michael J. Padilla. 2002
-* [**Launch of Shenzhou**](https://book.douban.com/subject/1137118/). Shi Lei. 2003
-* [**Orange Sellers Say**](https://book.douban.com/subject/4238941/). Steven N. S. Cheung. 2010
-* [**Are You Happy?**](https://book.douban.com/subject/5252677/). Bai Yansong. 2010
-* [**Robinson Crusoe**](https://book.douban.com/subject/1016003/). Daniel Defoe. 2002
-* [**Nineteen Eighty-Four**](https://book.douban.com/subject/3815131/). George Orwell. 2009
-* [**Animal Farm**](https://book.douban.com/subject/26371139/). George Orwell. 2014
-* [**The Agonized Journey of Culture**](https://book.douban.com/subject/1050339/). Yu Qiuyu. 2001
-* [**Insight**](https://book.douban.com/subject/20427187/). Chai Jing. 2013
-* [**Fortress Besieged**](https://book.douban.com/subject/1008145/). Qian Zhongshu. 1991
-* [**The Man Who Changed China**](https://book.douban.com/subject/1258378/). Robert Lawrence Kuhn. 2005
+* [**The Motherland in Taiwanese Eyes These Years**](https://book.douban.com/subject/25864000/). Liao Hsin-chung
+* [**Our Taiwan in These Years**](https://book.douban.com/subject/4113090/). Liao Hsin-chung
+* [**Eyewitnessing China of a century**](https://book.douban.com/subject/2004652/). Cheng Yong
+* [**Deng Xiaoping and the Transformation of China**](https://book.douban.com/subject/20424526/). Ezra F. Vogel
+* [**In Order to Live: A North Korean Girl's Journey to Freedom**](https://book.douban.com/subject/26847432/). Park Yeon-mi
+* [**A Gentle Whisper**](https://book.douban.com/subject/26899255/). Zhang Zhaozhong
+* [**Far Countries, neighboring Countries - Germany**](https://book.douban.com/subject/26285840/). Rhie Won-bok
+* [**Science Explorer: Astronomy**](https://book.douban.com/subject/1526244/). Michael J. Padilla
+* [**Launch of Shenzhou**](https://book.douban.com/subject/1137118/). Shi Lei
+* [**Orange Sellers Say**](https://book.douban.com/subject/4238941/). Steven N. S. Cheung
+* [**Are You Happy?**](https://book.douban.com/subject/5252677/). Bai Yansong
+* [**Robinson Crusoe**](https://book.douban.com/subject/1016003/). Daniel Defoe
+* [**Nineteen Eighty-Four**](https://book.douban.com/subject/3815131/). George Orwell
+* [**Animal Farm**](https://book.douban.com/subject/26371139/). George Orwell
+* [**The Agonized Journey of Culture**](https://book.douban.com/subject/1050339/). Yu Qiuyu
+* [**Insight**](https://book.douban.com/subject/20427187/). Chai Jing
+* [**Fortress Besieged**](https://book.douban.com/subject/1008145/). Qian Zhongshu
+* [**The Man Who Changed China**](https://book.douban.com/subject/1258378/). Robert Lawrence Kuhn
 <!-- endtab -->
 
 <!-- tab Documentary@video-camera -->

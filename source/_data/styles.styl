@@ -58,7 +58,7 @@ ul.breadcrumb {
   display: none;
 }
 
-//左侧卡片样式
+//左侧卡片
 .site-title {
   font-weight: 900;
 }
@@ -146,9 +146,9 @@ textarea#veditor.veditor.vinput  {
   text-align: left;
 }
 
-//归档、标签、分类页文章标题
+//归档/标签/分类页文章标题
 .posts-collapse .post-title a {
-  font-family: $font-family-base;
+  color: black;
 }
 
 //正文字号
@@ -156,7 +156,7 @@ textarea#veditor.veditor.vinput  {
   font-size: 1.05em;
 }
 
-//链接文本样式
+//链接文本
 .post-body a{
   color: #0477ab;
   border-bottom: none;
@@ -169,9 +169,13 @@ textarea#veditor.veditor.vinput  {
 //文章图片标题
 .post-body .image-caption {
   margin: -10px auto 15px;
+  
+  @media (max-width: 767px) {
+    margin: 0 auto 15px;
+  }
 }
 
-//段落中代码样式
+//段落中代码
 code {
   font-size: 85%;
 }
@@ -201,7 +205,7 @@ blockquote p, .post-body .note {
   border: 0px;
 }
 
-//分类页样式
+//分类页
 @media (max-width: 767px) {
   .category-all-page .category-list-item {
     margin: 5px 40px;
@@ -260,7 +264,7 @@ blockquote p, .post-body .note {
   box-shadow: none;
 }
 
-//修改阅读全文按钮样式
+//阅读全文按钮
 .post-button {
   text-align: right;
   margin-top: 15px;
@@ -283,7 +287,7 @@ blockquote p, .post-body .note {
   }
 }
 
-//赞赏按钮样式
+//赞赏按钮
 .reward-container button {
   height: 35px;
   width: 35px;
@@ -303,7 +307,7 @@ blockquote p, .post-body .note {
   }
 }
 
-//文章页内标签样式
+//文章页内标签
 .posts-expand .post-tags a {
   -webkit-box-shadow: $site-buttom-shadow;
   -moz-box-shadow: $site-buttom-shadow;
@@ -324,7 +328,7 @@ blockquote p, .post-body .note {
   }
 }
 
-//标签云样式
+//标签云
 .tag-cloud a {
   -webkit-box-shadow: $site-buttom-shadow;
   -moz-box-shadow: $site-buttom-shadow;
@@ -346,7 +350,7 @@ blockquote p, .post-body .note {
   }
 }
 
-//相册样式
+//相册
 .ImageGrid {
   width: 100%;
   max-width: 1040px;

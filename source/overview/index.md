@@ -1,5 +1,5 @@
 ---
-title: 几个专栏
+title: 文章分类
 type: categories
 comments: false
 ---

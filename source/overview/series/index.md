@@ -2,6 +2,8 @@
 title: 系列文章
 comments: false
 ---
+<center><i class="fa fa-fw fa-list"></i> 目前共计 5 个系列</center>
+
 ## 政策讨论
 
 * [上海市垃圾分类的一点想法](/posts/f518ff75/)

@@ -36,7 +36,7 @@ html, body {
   padding: 15px 25px 25px;
   position: absolute;
   left: 50%;
-  top: 30%;
+  top: 20%;
   transform: translate(-50%, -30%);
 }
 .box .box__ghost .symbol:nth-child(1) {
@@ -219,7 +219,7 @@ html, body {
   margin: 0 auto;
 }
 .box .box__description .box__description-container .box__description-title {
-  font-size: 24px;
+  font-size: 28px;
   letter-spacing: .5px;
 }
 .box .box__description .box__description-container .box__description-text {
@@ -233,15 +233,15 @@ html, body {
   background: #FF5E65;
   border: 1px solid transparent;
   border-radius: 50px;
-  height: 50px;
+  height: 38px;
   text-align: center;
   text-decoration: none;
   color: #fff;
-  line-height: 50px;
-  font-size: 18px;
-  padding: 0 70px;
+  line-height: 38px;
+  font-size: 14px;
+  padding: 0;
   white-space: nowrap;
-  margin-top: 25px;
+  margin-top: 18px;
   transition: background .5s ease;
   overflow: hidden;
 }
@@ -332,11 +332,12 @@ html, body {
   <div class="box__description">
     <div class="box__description-container">
       <div class="box__description-title">404</div>
-      <div class="box__description-text">您似乎来到了没有知识存在的荒原</div>
+      <div class="box__description-text">您似乎来到了</div>
+      <div class="box__description-text">没有知识存在的荒原……</div>
       <div class="box__description-text">Page Not Found</div>
 
     </div>
-    
+    <a onclick="history.back(-1)" class="box__button"><<< 返回 Back</a>
     <a href="https://blog.dlzhang.com" class="box__button">博客首页</a>
     <a href="https://blog.dlzhang.com/en" class="box__button">Blog in English</a>
     

@@ -11,6 +11,7 @@ mathjax: false
 comments: true
 abbrlink: 40e31eef
 ---
+
 The rank of this list is based on [SUFE journal list](http://econ.shufe.edu.cn/se/kxyj_con/87/1489).
 
 ## Top Tier

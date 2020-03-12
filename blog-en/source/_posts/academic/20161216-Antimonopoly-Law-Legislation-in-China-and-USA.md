@@ -11,7 +11,10 @@ mathjax: false
 comments: true
 abbrlink: fdbd388d
 ---
-{% note success %} This is the essay of CUHK PhD level course *Industrial Organization* {% endnote %}
+
+{% note success %}
+This is the essay of CUHK PhD level course *Industrial Organization*
+{% endnote %}
 
 **Abstract:** This article explores the facts during the anti-monopoly legislation in the US and China with historical evidences. Small and insufficient firms in the US were more active in lobbying the antitrust legislation, while in China, SOEs and multinational companies were more active. The core problem in the US is whether the country needed an antitrust act at that time, but people in China concerned more about what should be included in the law. The effect of the implementation of the law in both countries is not as good as expected. The unclear definition of concepts in Sherman Act and the inefficient distribution of enforcement power in China are the reasons.
 <!-- more -->

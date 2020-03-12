@@ -11,8 +11,8 @@ The sentence "无曰已是，无曰遂真" under the site title is from the [ant
 
 If you would like to give feedback on this site, please leave a message below or contact me by email, and you can also create an issue or a pull request on my [blog's repository](https://github.com/lei2rock/blog) on GitHub . All materials provided on this site are licensed under a [<i class="fa fa-fw fa-creative-commons"></i> BY-NC-SA 4.0 License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For commercial use, please contact me by email first.
 
-&emsp;<i class="fa fa-fw fa-envelope"></i> `idonglei(at)foxmail.com`
-&emsp;<i class="fa fa-fw fa-weibo"></i> [Weibo](https://weibo.com/1156774800)
-&emsp;<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock)
-&emsp;<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock)
+　<i class="fa fa-fw fa-envelope"></i> `idonglei(at)foxmail.com`
+　<i class="fa fa-fw fa-weibo"></i> [Weibo](https://weibo.com/1156774800)
+　<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock)
+　<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock)
 {% img /cloud/images/wx_channel.jpg 150 WeChat Channel %}

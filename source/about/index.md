@@ -17,8 +17,8 @@ comments: true
 
 如果你在浏览博客的过程中发现了任何问题，欢迎前往 GitHub 的[代码仓库](https://github.com/lei2rock/blog)提出 Issue 或直接修改相关文件后提交 Pull request。除特别声明外，博客中的所有作品均采用[<i class="fa fa-fw fa-creative-commons"></i> BY-NC-SA 4.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。如需转载，请注明出处；如需商业性使用，请先邮件联络获得书面许可。
 
-&emsp;<i class="fa fa-fw fa-envelope"></i> `idonglei(at)foxmail.com`
-&emsp;<i class="fa fa-fw fa-weibo"></i> [微博](https://weibo.com/1156774800)
-&emsp;<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock)
-&emsp;<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock)
+　<i class="fa fa-fw fa-envelope"></i> `idonglei(at)foxmail.com`
+　<i class="fa fa-fw fa-weibo"></i> [微博](https://weibo.com/1156774800)
+　<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock)
+　<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock)
 {% img /cloud/images/wx_channel.jpg 150 微信公众号：班班碎碎念 %}

@@ -23,6 +23,6 @@ comments: true
 	}
 </style>
 
-> These were token on my own by mobile phones. Filters and colors were simply adjusted in some photos. If you have any suggestions, please leave a message.
+> These were token on my own by mobile phones. Filters and colors were simply adjusted in some photos. If you have any suggestions, please leave a message below.
 
 <div class="ImageGrid"></div>

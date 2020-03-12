@@ -30,11 +30,6 @@ body {
   border-radius: 8px;
 }
 
-//菜单
-.menu .menu-item a {
-  color: black;
-}
-
 .sub-menu {
   margin-top: $site-top-margin; 
   border-radius: $site-card-radius;
@@ -132,10 +127,6 @@ textarea#veditor.veditor.vinput  {
   cursor: initial;
 }
 
-.posts-expand .post-title-link {
-  color: black;
-}
-
 //首页文章标题
 .posts-expand article.post-block.home .post-title {
   text-align: left;
@@ -146,8 +137,8 @@ textarea#veditor.veditor.vinput  {
   text-align: left;
 }
 
-//归档/标签/分类页文章标题
-.posts-collapse .post-title a {
+//思源宋体适配
+.menu .menu-item a, .posts-collapse .post-title a, .posts-expand .post-title-link {
   color: black;
 }
 
@@ -185,6 +176,10 @@ blockquote p, .post-body .note {
   font-family: $font-family-kaiti;
 }
 
+.blockquote-center {
+  margin: 40px 0 !important;
+}
+
 //相关文章移动端缩进
 @media (max-width: 767px) {
   .popular-posts {
@@ -198,11 +193,6 @@ blockquote p, .post-body .note {
 
 .popular-posts-header {
   font-weight: bold;
-}
-
-//文章图片边框取消
-.posts-expand .post-body img {
-  border: 0px;
 }
 
 //分类页

@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo clean && cd blog-en && hexo clean && hexo generate && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo generate",
-    "build:online": "cp -r node_modules blog-en && hexo clean && cd blog-en && hexo clean && hexo generate && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo generate",
+    "build": "hexo clean && cd blog-en && hexo clean && hexo generate --silent && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo generate --silent",
+    "build:online": "cp -r node_modules blog-en && cd blog-en && hexo generate --silent && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo generate --silent",
     "clean": "hexo clean",
-    "server": "hexo clean && cd blog-en && hexo clean && hexo generate && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo s"
+    "server": "hexo clean && cd blog-en && hexo clean && hexo generate --silent && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo s"
   },
   "hexo": {
     "version": "4.2.0"

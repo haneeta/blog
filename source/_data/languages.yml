@@ -18,12 +18,8 @@ zh-CN:
       valine: 评论
   counter:
     tag_cloud:
-      zero: '<i class="fa fa-fw fa-tags"></i> 暂无标签'
-      one: '<i class="fa fa-fw fa-tags"></i> 目前共计 1 个标签'
       other: '<i class="fa fa-fw fa-tags"></i> 目前共计 %d 个标签'
     categories:
-      zero: '<i class="fa fa-fw fa-th"></i> 暂无分类'
-      one: '<i class="fa fa-fw fa-th"></i> 目前共计 1 个分类'
       other: '<i class="fa fa-fw fa-th"></i> 目前共计 %d 个分类'
   reward:
     donate: <i class="fa fa-qrcode fa-2x" style="line-height:35px;"></i>

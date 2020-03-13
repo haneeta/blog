@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Photos
 type: picture
 comments: true
 ---

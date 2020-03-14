@@ -105,6 +105,19 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 
+# share.js
+# See: https://github.com/overtrue/share.js
+# networks: weibo,qq,wechat,tencent,douban,qzone,linkedin,diandian,facebook,twitter,google
+sharejs:
+  enable: true
+  cdn:
+    js: //cdn.jsdelivr.net/npm/social-share.js@1/dist/js/social-share.min.js
+    css: //cdn.jsdelivr.net/npm/social-share.js@1/dist/css/share.min.css
+  networks: weibo,wechat,twitter,facebook
+  wechat_qrcode:
+    title: '分享至微信'
+    prompt: '<p>打开微信“扫一扫”</p><p>便可将本文分享给好友哦～</p>'
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

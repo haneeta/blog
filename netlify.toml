@@ -22,12 +22,12 @@
 
 [[redirects]]
   from = "/cloud/*"
-  to = "https://cloud-1256060851.cos.ap-shanghai.myqcloud.com/:splat"
+  to = "https://cloud-1256060851.file.myqcloud.com/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/en/cloud/*"
-  to = "https://cloud-1256060851.cos.ap-shanghai.myqcloud.com/:splat"
+  to = "https://cloud-1256060851.file.myqcloud.com/:splat"
   status = 200
   force = true

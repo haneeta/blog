@@ -21,8 +21,8 @@ photo = {
            imageY = imageSize.split('.')[1];
             li += '<div class="card" style="width:213px">' +
                     '<div class="ImageInCard" style="height:'+ 213 * imageY / imageX + 'px">' +
-                      '<a data-fancybox="gallery" href="/cloud/photos/' + imgNameWithPattern + '?raw=true" data-caption="' + imgName + '">' +
-                        '<img srcset="/cloud/photos/' + imgNameWithPattern + '?raw=true" src="/cloud/photos/' + imgNameWithPattern + '?raw=true"/>' +
+                      '<a data-fancybox="gallery" href="https://yun-1256060851.file.myqcloud.com/photos/' + imgNameWithPattern + '?raw=true" data-caption="' + imgName + '">' +
+                        '<img srcset="https://yun-1256060851.file.myqcloud.com/photos/' + imgNameWithPattern + '?raw=true" src="https://yun-1256060851.file.myqcloud.com/photos/' + imgNameWithPattern + '?raw=true"/>' +
                       '</a>' +
                     '</div>' +
                     // '<div class="TextInCard">' + imgName + '</div>' +

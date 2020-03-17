@@ -133,7 +133,6 @@ menu:
     default: /about/ || location-arrow
     share: /share || share-alt
     friends: /friends || heart
-  i18n: /en || language
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -173,7 +172,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/blog-avatar.jpg
+  url: https://yun-1256060851.file.myqcloud.com/images/blog-avatar.jpg
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
@@ -277,8 +276,8 @@ reward_settings:
   comment: <p style="color:#34495e; margin:0 0 5px 0;">🍭 支持一根棒棒糖！</p>
 
 reward:
-  wechatpay: /cloud/images/wx_reward.jpg
-  alipay: /cloud/images/alipay.jpg
+  wechatpay: https://yun-1256060851.file.myqcloud.com/images/wx_reward.jpg
+  alipay: https://yun-1256060851.file.myqcloud.com/images/alipay.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 
@@ -306,8 +305,8 @@ related_posts:
 # Post edit
 # Dependencies: https://github.com/hexojs/hexo-deployer-git
 post_edit:
-  enable: false
-  url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name # Link for view source
+  enable: true
+  url: https://github.com/lei2rock/blog/tree/src/source/ # Link for view source
   #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name # Link for fork & edit
 
 # Show previous post and next post in post footer if exists
@@ -634,7 +633,7 @@ valine:
   guest_info: nick,mail # Custom comment header, nick,mail,link 
   pageSize: 10 # Pagination size
   language: # Language, available values: en, zh-cn
-  visitor: false # Article reading statistic
+  visitor: true # Article reading statistic
   comment_count: true # If false, comment count will only be displayed in post page, not in home page
   recordIP: true # Whether to record the commenter IP
   serverURLs: # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)
@@ -703,13 +702,13 @@ cnzz_siteid:
 # AppID and AppKey are recommended to be the same as valine's for counter compatibility.
 # Do not enable both `valine.visitor` and `leancloud_visitors`.
 leancloud_visitors:
-  enable: true
-  app_id: ydaoV9samWgzerLX7OHEbRgk-MdYXbMMI
-  app_key: 5jRfX3rExENmJqhdzkRqPndP
+  enable: false
+  app_id: # <app_id>
+  app_key: # <app_key>
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.
-  security: false
+  security: true
   betterPerformance: false
 
 # Another tool to show number of visitors to each article.

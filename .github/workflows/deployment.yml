@@ -38,7 +38,7 @@ jobs:
     - name: Generate Static Files
       run: |
         export PATH="$PATH:$(yarn global bin)"
-        yarn build:online 
+        yarn build
 
     - name: Deploy to Github
       env:

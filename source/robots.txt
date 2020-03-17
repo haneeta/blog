@@ -4,4 +4,3 @@ Disallow: /photos/photoslist.json
 Disallow: /about/friends/friendslist.json
 
 Sitemap: https://blog.dlzhang.com/sitemap.xml
-Sitemap: https://blog.dlzhang.com/en/sitemap.xml

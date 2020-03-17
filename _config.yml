@@ -15,10 +15,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.dlzhang.com
 root: /
-permalink: posts/:abbrlink/
-abbrlink:
-  alg: crc32  # 算法：crc16(default) and crc32
-  rep: hex    # 进制：dec(default) and hex
+permalink: /posts/:year/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -37,9 +34,10 @@ skip_render:
   - 404.html
   - js/photos.js
   - js/friends.js
+  - posts/**
 
 # Writing
-new_post_name: :year:month:day-:title.md # File name of new posts
+new_post_name: :year/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
@@ -95,6 +93,7 @@ use_date_for_updated: false
 per_page: 20
 pagination_dir: page
 
+# Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include:
 exclude:

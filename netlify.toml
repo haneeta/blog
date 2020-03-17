@@ -12,22 +12,10 @@
   publish = "/public"
 
   # Default build command.
-  command = "cp -r node_modules blog-en && cd blog-en && hexo generate --silent && cd ../ && mkdir public && cp -r blog-en/public public/en && hexo generate --silent"
+  command = "hexo generate --silent"
 
 [[redirects]]
   from = "https://lei2rock-blog.netlify.com/*"
   to = "https://blog.dlzhang.com/:splat"
   status = 301
-  force = true
-
-[[redirects]]
-  from = "/cloud/*"
-  to = "https://cloud-1256060851.file.myqcloud.com/:splat"
-  status = 200
-  force = true
-
-[[redirects]]
-  from = "/en/cloud/*"
-  to = "https://cloud-1256060851.file.myqcloud.com/:splat"
-  status = 200
   force = true

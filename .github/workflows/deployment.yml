@@ -60,6 +60,15 @@ jobs:
     - name: Deploy to OSS
       run: ossutil cp public/ oss://dlzhang-blog/ -rf
 
+    - name: Telegram Notification
+      if: cancelled() == false
+      uses: xinthink/action-telegram@v1.1
+      with:
+        botToken: ${{ secrets.TG_BOT_TOKEN }}
+        chatId: ${{ secrets.TG_CHAT_ID }}
+        jobStatus: ${{ job.status }}
+        skipSuccess: false
+
     - name: Deploy to Github for Backup
       env:
         GIT_NAME: lei2rock

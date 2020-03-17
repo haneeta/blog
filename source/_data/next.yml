@@ -126,13 +126,13 @@ menu:
   home: / || home
   overview: 
     default: /overview/ || th
-    series: /series || list
-    tags: /tags || tags
+    series: /series/ || list
+    tags: /tags/ || tags
   photos: /photos/ || camera-retro
   about:
     default: /about/ || location-arrow
-    share: /share || share-alt
-    friends: /friends || heart
+    share: /share/ || share-alt
+    friends: /friends/ || heart
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -276,7 +276,7 @@ reward_settings:
   comment: <p style="color:#34495e; margin:0 0 5px 0;">🍭 支持一根棒棒糖！</p>
 
 reward:
-  wechatpay: https://yun-1256060851.file.myqcloud.com/images/wx_reward.jpg
+  wechatpay: https://yun-1256060851.file.myqcloud.com/images/wechat-pay.jpg
   alipay: https://yun-1256060851.file.myqcloud.com/images/alipay.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png

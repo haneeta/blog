@@ -40,6 +40,19 @@ jobs:
         export PATH="$PATH:$(yarn global bin)"
         yarn build
 
+    - name: Setup OSS Util
+      uses: manyuanrong/setup-ossutil@v1.0
+      with:
+        endpoint: "oss-cn-hongkong.aliyuncs.com"
+        access-key-id: "${{ secrets.OSS_KEY_ID }}"
+        access-key-secret: "${{ secrets.OSS_KEY_SECRET }}"
+
+    - name: Clean Bucket
+      run: ossutil rm oss://dlzhang-blog/ -rf
+
+    - name: Deploy to OSS
+      run: ossutil cp public/ oss://dlzhang-blog/ -rf
+
     - name: Deploy to Github
       env:
         GIT_NAME: lei2rock

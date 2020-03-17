@@ -23,4 +23,4 @@ comments: true
 　<i class="fa fa-fw fa-weibo"></i> [微博](https://weibo.com/1156774800)
 　<i class="fa fa-fw fa-twitter"></i> [Twitter](https://twitter.com/lei2rock)
 　<i class="fa fa-fw fa-github"></i> [GitHub](https://github.com/lei2rock)
-{% img https://yun-1256060851.file.myqcloud.com/images/wx_channel.jpg 150 微信公众号：班班碎碎念 %}
+{% img https://yun-1256060851.file.myqcloud.com/images/wechat-channel.jpg 150 微信公众号：班班碎碎念 %}

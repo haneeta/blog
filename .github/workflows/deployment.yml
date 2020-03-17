@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v1
@@ -17,6 +17,13 @@ jobs:
 #      uses: actions/setup-node@v1.1.0
 #      with:
 #          node-version: "10.x"
+
+    - name: Fix wrong update time with ci
+      run: |
+        git config core.quotepath false
+        git ls-files | while read file
+        do touch -d "$(git log -1 --format="@%ct" "$file")" "$file"
+        done
 
     # https://github.com/actions/cache/blob/master/examples.md#node---yarn
     - name: Get Yarn Cache Directory
@@ -32,13 +39,13 @@ jobs:
 
     - name: Install Dependencies
       run: |
+        export PATH="$PATH:$(yarn global bin)"
         yarn global add hexo-cli
         yarn install
 
     - name: Generate Static Files
       run: |
-        export PATH="$PATH:$(yarn global bin)"
-        yarn build
+        yarn build 
 
     - name: Setup OSS Util
       uses: manyuanrong/setup-ossutil@v1.0
@@ -53,13 +60,12 @@ jobs:
     - name: Deploy to OSS
       run: ossutil cp public/ oss://dlzhang-blog/ -rf
 
-    - name: Deploy to Github
+    - name: Deploy to Github for Backup
       env:
         GIT_NAME: lei2rock
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
         REPO: github.com/lei2rock/blog
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
       run: |
         cd ./public && git init && git add .
         git config --global user.name $GIT_NAME
